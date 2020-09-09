@@ -1,2 +1,2 @@
 # BoardInfinity
-Project assignment fro Board Infinity Campus placement
+Project assignment for Board Infinity Campus placement
